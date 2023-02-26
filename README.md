@@ -2,12 +2,8 @@
 
  QResidence -  Secure and Private Address Solution
 
-# Site URL
-
-https://qresidence.000webhostapp.com/
-
 ## Website URL
-https://organized-dolphin.static.app/defaulthtml
+https://qresidence.000webhostapp.com/
 
 ## Features
 1. Secure Address
