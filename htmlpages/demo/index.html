@@ -1,0 +1,25 @@
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <title>Really Cool Page</title>
+<script>
+    const imgs = ["6.jpg", "7.jpg","8.jpg", "9.jpg", "10.jpg","11.jpg", "12.jpg", "13.jpg"];
+    var idx=1;
+    var total=imgs.length;
+    // Array of cat photos
+function changeImg()
+{
+    var elem = document.getElementsByTagName('img');
+    document.getElementsByClassName("mainImg")[0].src = imgs[idx];
+    if(idx<total-1)
+      idx++;
+    else
+      idx=0;
+}
+</script>
+  </head>
+  <body>
+    <!-- .header would be across site on other pages with different children, so no background image adding -->
+    <div class="header">
+      <img height: 60%; class="mainImg" onclick="javascript:changeImg()" src="6.jpg">
+    </div>
+  </body>
