@@ -2,6 +2,10 @@
 
  QResidence -  Secure and Private Address Solution
 
+## TagLine
+
+Your Address is your Privacy, Protect your Address -  Make it private, safe and digital
+
 ## Website URL
 https://qresidence.000webhostapp.com/
 
@@ -14,7 +18,7 @@ https://qresidence.000webhostapp.com/
 6. Integraged with Contacts
 
 ## Usage
-Address privacy and sacurity soluton to keep your address private encoded in QR code, secure by encrypting the addrss using industry standard and accessible to authorized person only, and easily accesible using one click and fully trusted and verfied providing full solution to eliminate identity theft.
+Address privacy and security soluton to keep your address private encoded, secure by encrypting the addrss using industry standard and accessible to authorized person only, easily accesible using one click and fully trusted and verfied providing full solution to eliminate identity theft.
 
 ## Secure Address
 Address is fully encrypted and not available to view publicly
